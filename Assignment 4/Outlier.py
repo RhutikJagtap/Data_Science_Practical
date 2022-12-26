@@ -1,4 +1,4 @@
-# 2.Add two outliers to the above data and display the box plot.
+#Set A 2.Add two outliers to the above data and display the box plot.
 import pandas as pd
 import numpy as np
 from matplotlib.pyplot import *
