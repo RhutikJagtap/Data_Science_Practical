@@ -1,4 +1,4 @@
-#Set A 5.Write a Python program to create a Pie plot to get the frequency of the three species of the Iris data.
+#Set A 4.Write a Python program to create a Pie plot to get the frequency of the three species of the Iris data.
 import pandas as pd
 import matplotlib.pyplot as plt
 iris = pd.read_csv("iris.csv")
