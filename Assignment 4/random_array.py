@@ -1,4 +1,4 @@
-# 1.Generate a random array of 50 integers and display them using a line chart, scatter plot, histogram and box plot.
+#Set A 1.Generate a random array of 50 integers and display them using a line chart, scatter plot, histogram and box plot.
 # Apply appropriate color, labels and styling options.
 import pandas as pd
 import numpy as np
